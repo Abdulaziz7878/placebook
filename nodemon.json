@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "Abdulaziz",
+    "DB_PASSWORD": "0982008296",
+    "DB_NAME": "placebook",
+    "JWT_KEY": "secretPrivateKey_don't_share"
+  }
+}
